@@ -8,7 +8,7 @@
 
 # <div align="center"><img src="bqb_008.gif" alt="粉大个！喵~" width="48%"> <img src="bqb_007.gif" alt="江江！嗷呜~" width="48%"></div>
 
-### <div align="center">我最喜欢的角色是天禄辟邪<br/>My favorite characters are Tianlu and Pixiu<br/>玩米哈游的游戏、我的世界 (ID: TLBX_)<br/>Playing Mihoyo games and Minecraft (ID: TLBX_)<br/>喜欢折腾服务器、路由器、电脑和手机<br/>Enjoy tinkering with servers, routers, computers and phones<br/><br/>一个上一（24小时）休二（48小时）的牛马打工人<br/>1 day of work (24 hours) 2 days of rest (48 hours )</div>
+### <div align="center">我最喜欢的角色是天禄辟邪<br/>My favorite characters are Tianlu and Bixiu<br/>玩米哈游的游戏、我的世界 (ID: TLBX_)<br/>Playing Mihoyo games and Minecraft (ID: TLBX_)<br/>喜欢折腾服务器、路由器、电脑和手机<br/>Enjoy tinkering with servers, routers, computers and phones<br/><br/>一个上一（24小时）休二（48小时）的牛马打工人<br/>1 day of work (24 hours) 2 days of rest (48 hours )</div>
 
 ## <div align="center">![](https://github-readme-stats.vercel.app/api?username=chen6019&show_icons=true&hide_border=False&theme=ambient_gradient&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chen6019&langs_count=10&layout=compact&exclude_repo=Cemiuiler,action-tmate,Aquarius223-s-sdm845-kernel)</div>
 
