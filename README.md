@@ -2,15 +2,15 @@
 
 # <div align="center">Hi there 👋 this is SpacJoy</div>
 
-# <div align="center"><img src="https://ysy.146019.xyz/bqb/AM/hp/bqb_005.gif" alt="天禄辟邪玩~喵~" width="48%"> <img src="https://ysy.146019.xyz/bqb/AM/hp/bqb_006.gif" alt="天禄和辟邪可以一起生蛋！嗷~" width="48%"></div>
+# <div align="center"><img src="bqb_005.gif" alt="天禄辟邪玩~喵~" width="48%"> <img src="bqb_006.gif" alt="天禄和辟邪可以一起生蛋！嗷~" width="48%"></div>
 
 ## <div align="center">记忆塑造灵魂，灵魂影响记忆<br/>Memory Shapes the Soul, and the Soul Affects Memory</div>
 
-# <div align="center"><img src="https://ysy.146019.xyz/bqb/AM/hp/bqb_008.gif" alt="粉大个！喵~" width="48%"> <img src="https://ysy.146019.xyz/bqb/AM/hp/bqb_007.gif" alt="江江！嗷呜~" width="48%"></div>
+# <div align="center"><img src="bqb_008.gif" alt="粉大个！喵~" width="48%"> <img src="bqb_007.gif" alt="江江！嗷呜~" width="48%"></div>
 
 ### <div align="center">我最喜欢的角色是天禄辟邪<br/>My favorite characters are Tianlu and Bixie<br/>玩米哈游的游戏、我的世界 (ID: SpacJoy)<br/>Playing Mihoyo games and Minecraft (ID: SpacJoy)<br/>喜欢折腾服务器、路由器、电脑和手机<br/>Enjoy tinkering with servers, routers, computers and phones<br/><br/>一个上一（24小时）休二（48小时）的牛马打工人<br/>1 day of work (24 hours) 2 days of rest (48 hours )</div>
 
-## <div align="center">![](https://github-readme-stats.vercel.app/api?username=chen6019&show_icons=true&hide_border=False&theme=ambient_gradient&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chen6019&langs_count=10&layout=compact&exclude_repo=Cemiuiler,action-tmate,Aquarius223-s-sdm845-kernel)</div>
+## <div align="center">![](https://github-readme-stats.vercel.app/api?username=spacjoy&show_icons=true&hide_border=False&theme=ambient_gradient&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spacjoy&langs_count=10&layout=compact&exclude_repo=Cemiuiler,action-tmate,Aquarius223-s-sdm845-kernel)</div>
 
 # <div align="center">💻 Environment</div>
 
@@ -22,11 +22,11 @@
 
 # <div align="center">🔗 Services</div>
 
-# <div align="center"><img src="https://ysy.146019.xyz/bqb/AM/hp/bqb_004.gif" alt="转圈圈~喵~" style="width:25%; height:auto;"></div>
-## <div align="center"><a href="https://home.146019.xyz:1125"><img src="https://img.shields.io/badge/喵呜~-仅IPv6-1269D3?logo=coronaengine" title="博客" /></a> <a href="https://home-tu.146019.xyz"><img src="https://img.shields.io/badge/备用-IPv4&IPv6-1269D3?logo=Cloudflare" title="博客" /></a> <a href="https://146019.xyz"><img src="https://img.shields.io/badge/喵~-146019.xyz-3EA8FF?logo=Cloudflare" title="点击访问" /></a> <a href="https://2012520.xyz"><img src="https://img.shields.io/badge/嗷~-2012520.xyz-3EA8FF?logo=github" title="备用（GitHub）" /></a> <a href="https://2012521.xyz"><img src="https://img.shields.io/badge/备用1-2012521.xyz-3EA8FF?logo=macys" title="备用1" /></a> <a href="https://www.146019.xyz"><img src="https://img.shields.io/badge/备用2-www.146019.xyz-3EA8FF?logo=macys" title="备用2" /></a></div>
+# <div align="center"><img src="bqb_004.gif" alt="转圈圈~喵~" style="width:25%; height:auto;"></div>
+## <div align="center"><a href="https://nf.spacjoy.top"><img src="https://img.shields.io/badge/喵~-nf.spacjoy.top-3EA8FF?logo=netlify" title="点击访问" /></a> <a href="https://eo.spacjoy.top"><img src="https://img.shields.io/badge/嗷~-eo.spacjoy.top-3EA8FF?logo=EdgeOne" title="备用（edgeone）" /></a> <a href="https://146019.xyz"><img src="https://img.shields.io/badge/备用1-146019.xyz-3EA8FF?logo=CloudFlare" title="备用1" /></a> <a href="https://2012520.xyz"><img src="https://img.shields.io/badge/备用2-2012520.xyz-3EA8FF?logo=macys" title="备用2" /></a></div>
 
 
 # <div align="center"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...</div>
 
-## <div align="center"><a href="https://github.com/chen6019"><img src="https://img.shields.io/badge/github-chen6019-pink?logo=github" title="github" /></a> <a href="https://space.bilibili.com/494337416"><img src="https://img.shields.io/badge/哔哩哔哩-KY—TLBX-pink?logo=bilibili" title="哔哩哔哩" /></a> <a href="mailto:mc_chen6019@qq.com"><img src="https://img.shields.io/badge/QQ邮箱-mc_chen6019@qq.com-pink?logo=qq" title="QQ邮箱"/></a></div>
+## <div align="center"><a href="https://github.com/spacjoy"><img src="https://img.shields.io/badge/github-spacjoy-pink?logo=github" title="github" /></a> <a href="https://space.bilibili.com/494337416"><img src="https://img.shields.io/badge/哔哩哔哩-KY—TLBX-pink?logo=bilibili" title="哔哩哔哩" /></a> <a href="mailto:mc_chen6019@qq.com"><img src="https://img.shields.io/badge/QQ邮箱-mc_chen6019@qq.com-pink?logo=qq" title="QQ邮箱"/></a></div>
 
