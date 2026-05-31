@@ -1,6 +1,6 @@
 # 关于
 
-# Hi there 👋 this is Space Joy
+# Hi there 👋 this is 空悦（Space Joy）
 
 <div align="center"><img src="bqb_005.gif" alt="天禄辟邪玩~喵~" width="80%"></div>
 
@@ -10,7 +10,7 @@
 
 # <div align="center"><img src="bqb_007.gif" alt="江江！嗷呜~" width="80%"></div>
 
-### <div align="center">我最喜欢的角色是天禄辟邪<br/>My favorite characters are Tianlu and Bixie<br/>玩米哈游的游戏、我的世界 (ID: SpacJoy)<br/>Playing Mihoyo games and Minecraft (ID: SpacJoy)<br/>喜欢折腾服务器、路由器、电脑和手机<br/>Enjoy tinkering with servers, routers, computers and phones<br/><br/>一个上一（24小时）休二（48小时）的牛马打工人<br/>1 day of work (24 hours) 2 days of rest (48 hours )</div>
+### <div align="center">我最喜欢的角色是天禄辟邪<br/>My favorite characters are Tianlu and Bixie<br/>玩米哈游的游戏、我的世界 (ID: SpacJoy)<br/>Playing Mihoyo games and Minecraft (ID: SpacJoy)<br/>喜欢折腾服务器、路由器、电脑和手机<br/>Enjoy tinkering with servers, routers, computers and phones<br/><br/>梦想是变成一只可可爱爱的貔貅<br/>My dream is to become a cute and cuddly pi xiu.</div>
 
 ## <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spacjoy&show_icons=true&hide_border=False&theme=ambient_gradient&include_all_commits=true" alt="GitHub 统计数据-加载失败" style="height: auto; margin: 8px;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacjoy&langs_count=10&layout=compact&exclude_repo=Cemiuiler,action-tmate,Aquarius223-s-sdm845-kernel" alt="常用编程语言统计-加载失败" style="height: auto; margin: 0 4px;" /> </div>
 
