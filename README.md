@@ -20,7 +20,7 @@
 
 # <div align="center">📱 Devices in Use</div>
 
-# <div align="center"> <img src="https://img.shields.io/badge/Xiaomi 17 Pro-OS3 (解BL)-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff" title="Xiaomi 15 -OS3 未解锁BL" /> <img src="https://img.shields.io/badge/蛟龙 16K-746Q0-00BBFF?style=flat-square&logo=mechrevo&logoColor=ffffff" title="- 蛟龙16K-746Q0" /> <img src="https://img.shields.io/badge/X86 迷你主机-FnOS-835BFF?style=flat-square&logo=linux&logoColor=ffffff" title="X86 mini PC - 安装FnOS" /></div>
+# <div align="center"> <img src="https://img.shields.io/badge/Xiaomi 17 Pro-解BL-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff" title="Xiaomi 17 Pro-已解锁BL" /> <img src="https://img.shields.io/badge/蛟龙 16K-746Q0-00BBFF?style=flat-square&logo=mechrevo&logoColor=ffffff" title="- 蛟龙16K-746Q0" /> <img src="https://img.shields.io/badge/X86 迷你主机-FnOS-835BFF?style=flat-square&logo=linux&logoColor=ffffff" title="X86 mini PC - 安装FnOS" /></div>
 
 # <div align="center">🔗 Services</div>
 
